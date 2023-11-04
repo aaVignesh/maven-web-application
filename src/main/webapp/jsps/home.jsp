@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Technologies Pvt Ltd. Ph No: +91-9980923226,+91-9900012028  Bengaluru,Karnataka </h1>
-<h1 align="center">This edit is trying to check the pollscm is working or not </h1>
+<h1 align="center">This edit is trying to check the github webhook is working or not </h1>
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
